@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #000;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.led-clock {
+    color: rgb(245, 81, 17);
+    font-size: 5rem;
+    text-shadow: 0 0 20px rgb(255, 51, 0), 0 0 30px rgb(255, 30, 0), 0 0 40px rgb(255, 51, 0), 0 0 50px rgb(255, 38, 0), 0 0 60px rgb(255, 51, 0);
+}
